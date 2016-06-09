@@ -1,2 +1,1 @@
-# ios-default-launch-images
-Default iOS 9 Launch Images
+Every time you start a new iOS project, these default launch assets are required to get the correct aspect ratio on devices such as the iPhone 6 and 6 Plus. Rather than hunt for them or create them every time, here is a handy place to download blank templates (with a black background). Feel free to customize them with your logo. Very handy for hackathons, and to save time in general. 
